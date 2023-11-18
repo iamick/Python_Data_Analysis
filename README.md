@@ -1,2 +1,2 @@
 # Sample_EDA
-EDA of public datasets using pandas/numpy
+EDA of public datasets using pandas, numpy, and visualization (matplotlib)
