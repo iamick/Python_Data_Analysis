@@ -1,2 +1,2 @@
-# Sample_EDA
-EDA of public datasets using pandas, numpy, and visualization (matplotlib)
+# Python_Data_Analysis
+Example projects using Python (pandas, numpy, matplotlib, seaborn) for data analysis
